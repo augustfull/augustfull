@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @augustfull
+- 👋 Hi, I’m Javad
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JS, React, Next.js
 - 💞️ I’m looking to collaborate on cool things about JS
